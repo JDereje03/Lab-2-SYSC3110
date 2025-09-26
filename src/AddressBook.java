@@ -5,6 +5,7 @@ public class AddressBook {
     private ArrayList<BuddyInfo> myBuddies;
     public AddressBook(){
         myBuddies = new ArrayList<>();
+        1 = 1;
     }
 
     public void addBuddy(BuddyInfo aBuddy){
